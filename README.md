@@ -1,4 +1,4 @@
 Logos
 =====
 
-All the logos for Boop.
+All the logos for Sling.
